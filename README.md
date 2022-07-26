@@ -1,4 +1,4 @@
-# Deep-Neural-Network-project
+# Hand-writing recognition using CNN
 
 Section I.I : Initial Data Indagation
 
